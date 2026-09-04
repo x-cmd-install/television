@@ -7,13 +7,13 @@ about:
   head: 78f6a81
   archived: false
   latestVersion: 0.15.9
-  collectedAt: 2026-09-04T19:22:00Z
+  collectedAt: 2026-09-04T21:15:35Z
 timeline:
   created: 2024-09-15
   lastCommit: 2026-09-04
   lastRelease: 2026-06-14
 popularity:
-  star: 6241
+  star: 6242
   watcher: 13
   fork: 181
   release: 86
@@ -88,5 +88,93 @@ total:
   openIssue: 61
   commit: 1076
 ---
+path: /home/runner/.x-repo/github.com/alexpasmantier/television
+collectedAt: 2026-09-04T21:15:38Z
+loc:
+  Rust:
+    code: 22962
+    comments: 1183
+    blanks: 3004
+    files: 103
+  Yaml:
+    code: 10864
+    comments: 0
+    blanks: 2674
+    files: 1
+  Toml:
+    code: 3161
+    comments: 119
+    blanks: 601
+    files: 139
+  Css:
+    code: 652
+    comments: 54
+    blanks: 120
+    files: 5
+  Sh:
+    code: 413
+    comments: 50
+    blanks: 89
+    files: 5
+  Tsx:
+    code: 393
+    comments: 12
+    blanks: 39
+    files: 4
+  Python:
+    code: 144
+    comments: 3
+    blanks: 33
+    files: 3
+  Nix:
+    code: 129
+    comments: 14
+    blanks: 16
+    files: 3
+  Json:
+    code: 123
+    comments: 0
+    blanks: 0
+    files: 10
+  TypeScript:
+    code: 120
+    comments: 42
+    blanks: 22
+    files: 4
+  PowerShell:
+    code: 111
+    comments: 45
+    blanks: 31
+    files: 1
+  Fish:
+    code: 93
+    comments: 30
+    blanks: 23
+    files: 1
+  Zsh:
+    code: 84
+    comments: 9
+    blanks: 24
+    files: 1
+  Bash:
+    code: 77
+    comments: 28
+    blanks: 31
+    files: 1
+  Svg:
+    code: 22
+    comments: 0
+    blanks: 0
+    files: 4
+  Markdown:
+    code: 0
+    comments: 5643
+    blanks: 4302
+    files: 32
+total:
+  code: 42445
+  comments: 9442
+  blanks: 12157
+  files: 317
 ---
 
