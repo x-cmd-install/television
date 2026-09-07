@@ -5,19 +5,19 @@ about:
   head: ee8bb99
   archived: false
   latestVersion: "0.15.9"
-  collectedAt: 2026-09-07T05:40:46Z
+  collectedAt: 2026-09-07T18:58:03Z
 timeline:
   created: 2024-09-15
   lastCommit: 2026-09-06
   lastRelease: 2026-06-14
 popularity:
-  star: 6246
+  star: 6250
   watcher: 14
   fork: 182
   release: 86
   contributor: 99
   pullRequest: 736
-  issue: 328
+  issue: 329
 language:
   Rust: 957310
   Shell: 31074
@@ -36,7 +36,7 @@ recent:
     mergedPR: 9
     openPR: 3
     closedIssue: 1
-    openIssue: 1
+    openIssue: 2
     commit: 28
   last60d:
     since: 2026-07-09
@@ -44,7 +44,7 @@ recent:
     mergedPR: 19
     openPR: 3
     closedIssue: 5
-    openIssue: 1
+    openIssue: 2
     commit: 67
   last90d:
     since: 2026-06-09
@@ -52,7 +52,7 @@ recent:
     mergedPR: 26
     openPR: 4
     closedIssue: 7
-    openIssue: 4
+    openIssue: 5
     commit: 76
   last180d:
     since: 2026-03-11
@@ -60,7 +60,7 @@ recent:
     mergedPR: 85
     openPR: 16
     closedIssue: 31
-    openIssue: 38
+    openIssue: 39
     commit: 162
   last360d:
     since: 2025-09-12
@@ -68,7 +68,7 @@ recent:
     mergedPR: 215
     openPR: 17
     closedIssue: 76
-    openIssue: 51
+    openIssue: 52
     commit: 413
   last720d:
     since: 2024-09-17
@@ -76,18 +76,18 @@ recent:
     mergedPR: 655
     openPR: 19
     closedIssue: 268
-    openIssue: 60
+    openIssue: 61
     commit: 1084
 total:
   release: 86
   mergedPR: 655
   openPR: 19
   closedIssue: 268
-  openIssue: 60
+  openIssue: 61
   commit: 1085
 ---
 path: /home/runner/.x-repo/github.com/alexpasmantier/television
-collectedAt: 2026-09-07T05:40:51Z
+collectedAt: 2026-09-07T18:58:07Z
 loc:
   Rust:
     code: 22940
@@ -178,7 +178,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:40:52+00:00
+  collectedAt: 2026-09-07T18:58:08+00:00
   platform:
     darwin/arm64:
       name:  tv-0.15.9-aarch64-apple-darwin.tar.gz
