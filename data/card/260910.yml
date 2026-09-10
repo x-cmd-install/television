@@ -7,7 +7,7 @@ about:
   latestVersion: "0.15.9"
   latestRelease: "0.15.9"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:38:43Z
+  collectedAt: 2026-09-10T23:13:18Z
 timeline:
   created: 2024-09-15
   lastCommit: 2026-09-10
@@ -91,7 +91,7 @@ total:
   commit: 1095
 ---
 path: /home/runner/.x-repo/github.com/alexpasmantier/television
-collectedAt: 2026-09-10T20:38:47Z
+collectedAt: 2026-09-10T23:13:24Z
 loc:
   Rust:
     code: 23129
