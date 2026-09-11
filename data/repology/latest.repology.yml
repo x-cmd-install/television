@@ -1,35 +1,12 @@
 - repo: chimera
   subrepo: user
   srcname: television
-  binname: television
-  visiblename: television
+  binname: television-doc
+  visiblename: television-doc
   version: 0.14.4
   origversion: 0.14.4-r0
   status: outdated
-  summary: Fuzzy finder
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: television
-  visiblename: television
-  version: 0.11.9
-  origversion: null
-  status: outdated
-  summary: Blazingly fast general purpose fuzzy finder TUI
-  maintainers:
-    - louis-thevenet@github
-    - getchoo@tuta.io
-  licenses:
-    - MIT
-- repo: arch
-  subrepo: extra
-  srcname: television
-  binname: television
-  visiblename: television
-  version: 0.15.9
-  origversion: 0.15.9-1
-  status: newest
-  summary: A general purpose fuzzy finder for your terminal
+  summary: Fuzzy finder (documentation)
   licenses:
     - MIT
 - repo: alt_p11
@@ -48,6 +25,17 @@
     - MIT
   categories:
     - File tools
+- repo: chimera
+  subrepo: user
+  srcname: television
+  binname: television-man
+  visiblename: television-man
+  version: 0.14.4
+  origversion: 0.14.4-r0
+  status: outdated
+  summary: Fuzzy finder (manual pages)
+  licenses:
+    - MIT
 - repo: altsisyphus
   srcname: television
   binnames:
@@ -64,26 +52,38 @@
     - MIT
   categories:
     - File tools
-- repo: chimera
-  subrepo: user
+- repo: arch
+  subrepo: extra
   srcname: television
-  binname: television-doc
-  visiblename: television-doc
-  version: 0.14.4
-  origversion: 0.14.4-r0
-  status: outdated
-  summary: Fuzzy finder (documentation)
+  binname: television
+  visiblename: television
+  version: 0.15.9
+  origversion: 0.15.9-1
+  status: newest
+  summary: A general purpose fuzzy finder for your terminal
   licenses:
     - MIT
 - repo: chimera
   subrepo: user
   srcname: television
-  binname: television-man
-  visiblename: television-man
+  binname: television
+  visiblename: television
   version: 0.14.4
   origversion: 0.14.4-r0
   status: outdated
-  summary: Fuzzy finder (manual pages)
+  summary: Fuzzy finder
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: television
+  visiblename: television
+  version: 0.9.4
+  origversion: null
+  status: outdated
+  summary: Blazingly fast general purpose fuzzy finder TUI
+  maintainers:
+    - louis-thevenet@github
+    - getchoo@tuta.io
   licenses:
     - MIT
 - repo: freebsd
@@ -98,19 +98,6 @@
     - uzsolt@freebsd.org
   categories:
     - textproc
-- repo: nix_stable_25_11
-  srcname: television
-  visiblename: television
-  version: 0.13.10
-  origversion: null
-  status: outdated
-  summary: Blazingly fast general purpose fuzzy finder TUI
-  maintainers:
-    - louis-thevenet@github
-    - getchoo@tuta.io
-    - rosssmyth@github
-  licenses:
-    - MIT
 - repo: gentoo_ovl_guru
   srcname: app-misc/television
   visiblename: app-misc/television
@@ -263,16 +250,29 @@
   summary: A general purpose fuzzy finder for your terminal
   licenses:
     - MIT
-- repo: nix_stable_24_11
+- repo: nix_stable_25_05
   srcname: television
   visiblename: television
-  version: 0.9.4
+  version: 0.11.9
   origversion: null
   status: outdated
   summary: Blazingly fast general purpose fuzzy finder TUI
   maintainers:
     - louis-thevenet@github
     - getchoo@tuta.io
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: television
+  visiblename: television
+  version: 0.13.10
+  origversion: null
+  status: outdated
+  summary: Blazingly fast general purpose fuzzy finder TUI
+  maintainers:
+    - louis-thevenet@github
+    - getchoo@tuta.io
+    - rosssmyth@github
   licenses:
     - MIT
 - repo: nix_stable_26_05
@@ -356,6 +356,16 @@
   status: newest
   licenses:
     - MIT
+- repo: termux
+  srcname: television
+  binname: television
+  visiblename: television
+  version: 0.15.9
+  origversion: null
+  status: newest
+  summary: A very fast, portable and hackable fuzzy finder
+  maintainers:
+    - gouranga.das.khulna@gmail.com
 - repo: tur
   srcname: television
   binname: television
