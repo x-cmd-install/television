@@ -4,7 +4,7 @@
 
 A very fast, portable and hackable fuzzy finder.
 
-[![x-cmd/install — television Code Quality Monitoring Repo Card](https://repo.x-cmd.io/television.svg)](https://x-cmd.com/install/television)
+[![x-cmd/install — television Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/television.svg)](https://x-cmd.com/install/television)
 
 ## Install
 
@@ -14,15 +14,15 @@ x install television
 
 ## Code insight
 
-Total: **39,364** lines of code across **245** files in the top 5 languages.
+Total: **40,000** lines of code across **247** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 22,974 | 1,194 | 2,985 | 95 |
-| Yaml | 10,864 | 0 | 2,674 | 1 |
-| Toml | 3,165 | 119 | 601 | 139 |
-| Css | 652 | 54 | 120 | 5 |
-| Sh | 413 | 50 | 89 | 5 |
+| Rust | 23,315 | 1,201 | 3,036 | 95 |
+| Yaml | 11,020 | 0 | 2,676 | 1 |
+| Toml | 3,167 | 119 | 602 | 139 |
+| Css | 741 | 83 | 140 | 6 |
+| Tsx | 427 | 15 | 43 | 6 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **39,364** lines of code across **245** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.15.9` (2026-06-14)
-- **Last commit**: 2026-09-19
+- **Last commit**: 2026-09-22
 - **Assets in release**: 22
 
 ## Popularity
 
-- **Stars**: 6,280 · **Forks**: 184 · **Open issues**: 331 · **Contributors**: 99
+- **Stars**: 6,286 · **Forks**: 184 · **Open issues**: 333 · **Contributors**: 99
 
 ## Totals (cumulative)
 
-- **Releases**: 86 · **Merged PRs**: 658 · **Open PRs**: 20 · **Closed issues**: 273 · **Open issues**: 58 · **Commits**: 1096
+- **Releases**: 86 · **Merged PRs**: 661 · **Open PRs**: 20 · **Closed issues**: 273 · **Open issues**: 60 · **Commits**: 1113
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 9 | 4 | 3 | 1 | 33 |
-| last60d | 2026-07-24 | 0 | 11 | 6 | 3 | 2 | 36 |
-| 90d | 2026-06-24 | 0 | 21 | 7 | 8 | 4 | 84 |
-| last180d | 2026-03-26 | 5 | 67 | 16 | 22 | 26 | 158 |
-| 360d | 2025-09-27 | 25 | 218 | 18 | 81 | 47 | 412 |
-| last720d | 2024-10-02 | 86 | 658 | 20 | 273 | 58 | 1095 |
+| 30d | 2026-08-24 | 0 | 12 | 4 | 3 | 3 | 50 |
+| last60d | 2026-07-25 | 0 | 14 | 6 | 3 | 4 | 53 |
+| 90d | 2026-06-25 | 0 | 24 | 7 | 8 | 6 | 101 |
+| last180d | 2026-03-27 | 5 | 68 | 16 | 20 | 25 | 175 |
+| 360d | 2025-09-28 | 25 | 220 | 18 | 81 | 49 | 429 |
+| last720d | 2024-10-03 | 86 | 661 | 20 | 273 | 60 | 1112 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for television lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:51:47Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:08:46Z._
