@@ -33,27 +33,27 @@ Total: **40,000** lines of code across **247** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.15.9` (2026-06-14)
-- **Last commit**: 2026-09-22
+- **Last commit**: 2026-09-23
 - **Assets in release**: 22
 
 ## Popularity
 
-- **Stars**: 6,286 · **Forks**: 184 · **Open issues**: 333 · **Contributors**: 99
+- **Stars**: 6,288 · **Forks**: 184 · **Open issues**: 333 · **Contributors**: 99
 
 ## Totals (cumulative)
 
-- **Releases**: 86 · **Merged PRs**: 661 · **Open PRs**: 20 · **Closed issues**: 273 · **Open issues**: 60 · **Commits**: 1113
+- **Releases**: 86 · **Merged PRs**: 662 · **Open PRs**: 20 · **Closed issues**: 274 · **Open issues**: 59 · **Commits**: 1114
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 0 | 12 | 4 | 3 | 3 | 50 |
-| last60d | 2026-07-25 | 0 | 14 | 6 | 3 | 4 | 53 |
-| 90d | 2026-06-25 | 0 | 24 | 7 | 8 | 6 | 101 |
-| last180d | 2026-03-27 | 5 | 68 | 16 | 20 | 25 | 175 |
-| 360d | 2025-09-28 | 25 | 220 | 18 | 81 | 49 | 429 |
-| last720d | 2024-10-03 | 86 | 661 | 20 | 273 | 60 | 1112 |
+| 30d | 2026-08-25 | 0 | 13 | 3 | 4 | 2 | 51 |
+| last60d | 2026-07-26 | 0 | 15 | 6 | 4 | 3 | 54 |
+| 90d | 2026-06-26 | 0 | 25 | 7 | 9 | 5 | 102 |
+| last180d | 2026-03-28 | 5 | 68 | 15 | 19 | 22 | 176 |
+| 360d | 2025-09-29 | 25 | 221 | 18 | 82 | 48 | 430 |
+| last720d | 2024-10-04 | 86 | 662 | 20 | 274 | 59 | 1113 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for television lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T06:08:46Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T05:35:10Z._
