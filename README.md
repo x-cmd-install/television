@@ -14,13 +14,13 @@ x install television
 
 ## Code insight
 
-Total: **40,105** lines of code across **247** files in the top 5 languages.
+Total: **39,923** lines of code across **247** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 23,420 | 1,204 | 3,043 | 95 |
+| Rust | 23,237 | 1,205 | 3,022 | 95 |
 | Yaml | 11,020 | 0 | 2,676 | 1 |
-| Toml | 3,167 | 119 | 602 | 139 |
+| Toml | 3,168 | 119 | 602 | 139 |
 | Css | 741 | 83 | 140 | 6 |
 | Tsx | 427 | 15 | 43 | 6 |
 
@@ -33,27 +33,27 @@ Total: **40,105** lines of code across **247** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.15.9` (2026-06-14)
-- **Last commit**: 2026-10-04
+- **Last commit**: 2026-10-05
 - **Assets in release**: 22
 
 ## Popularity
 
-- **Stars**: 6,323 · **Forks**: 187 · **Open issues**: 333 · **Contributors**: 100
+- **Stars**: 6,328 · **Forks**: 188 · **Open issues**: 333 · **Contributors**: 100
 
 ## Totals (cumulative)
 
-- **Releases**: 86 · **Merged PRs**: 665 · **Open PRs**: 17 · **Closed issues**: 276 · **Open issues**: 57 · **Commits**: 1119
+- **Releases**: 86 · **Merged PRs**: 666 · **Open PRs**: 18 · **Closed issues**: 276 · **Open issues**: 57 · **Commits**: 1121
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 9 | 2 | 3 | 2 | 24 |
-| last60d | 2026-08-06 | 0 | 17 | 4 | 5 | 2 | 59 |
-| 90d | 2026-07-07 | 0 | 28 | 5 | 9 | 3 | 100 |
-| last180d | 2026-04-08 | 5 | 62 | 10 | 19 | 11 | 154 |
-| 360d | 2025-10-10 | 23 | 217 | 15 | 80 | 45 | 431 |
-| last720d | 2024-10-15 | 86 | 665 | 17 | 276 | 57 | 1102 |
+| 30d | 2026-09-06 | 0 | 9 | 4 | 3 | 2 | 26 |
+| last60d | 2026-08-07 | 0 | 18 | 5 | 5 | 2 | 61 |
+| 90d | 2026-07-08 | 0 | 28 | 5 | 9 | 2 | 102 |
+| last180d | 2026-04-09 | 4 | 59 | 11 | 18 | 10 | 156 |
+| 360d | 2025-10-11 | 23 | 218 | 16 | 80 | 45 | 433 |
+| last720d | 2024-10-16 | 86 | 666 | 18 | 276 | 57 | 1101 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for television lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:21:53Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:11:28Z._
