@@ -14,13 +14,13 @@ x install television
 
 ## Code insight
 
-Total: **40,113** lines of code across **250** files in the top 5 languages.
+Total: **39,878** lines of code across **250** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 23,382 | 1,204 | 3,014 | 96 |
+| Rust | 23,218 | 1,199 | 2,997 | 96 |
 | Yaml | 11,020 | 0 | 2,676 | 1 |
-| Toml | 3,168 | 119 | 602 | 139 |
+| Toml | 3,171 | 243 | 624 | 139 |
 | Css | 752 | 83 | 145 | 6 |
 | Tsx | 461 | 15 | 45 | 8 |
 
@@ -33,27 +33,27 @@ Total: **40,113** lines of code across **250** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.15.9` (2026-06-14)
-- **Last commit**: 2026-10-29
+- **Last commit**: 2026-11-01
 - **Assets in release**: 22
 
 ## Popularity
 
-- **Stars**: 6,398 · **Forks**: 195 · **Open issues**: 338 · **Contributors**: 101
+- **Stars**: 6,401 · **Forks**: 195 · **Open issues**: 338 · **Contributors**: 101
 
 ## Totals (cumulative)
 
-- **Releases**: 86 · **Merged PRs**: 671 · **Open PRs**: 25 · **Closed issues**: 279 · **Open issues**: 59 · **Commits**: 1130
+- **Releases**: 86 · **Merged PRs**: 671 · **Open PRs**: 25 · **Closed issues**: 279 · **Open issues**: 59 · **Commits**: 1136
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 6 | 9 | 3 | 2 | 8 |
-| last60d | 2026-09-02 | 0 | 18 | 11 | 6 | 4 | 39 |
-| 90d | 2026-08-03 | 0 | 23 | 12 | 8 | 4 | 70 |
-| last180d | 2026-05-05 | 3 | 53 | 16 | 17 | 10 | 146 |
-| 360d | 2025-11-06 | 20 | 208 | 23 | 76 | 46 | 404 |
-| last720d | 2024-11-11 | 84 | 660 | 25 | 274 | 59 | 1043 |
+| 30d | 2026-10-03 | 0 | 6 | 9 | 3 | 2 | 14 |
+| last60d | 2026-09-03 | 0 | 17 | 11 | 6 | 4 | 45 |
+| 90d | 2026-08-04 | 0 | 23 | 12 | 8 | 4 | 76 |
+| last180d | 2026-05-06 | 3 | 52 | 16 | 17 | 10 | 152 |
+| 360d | 2025-11-07 | 19 | 208 | 23 | 76 | 46 | 410 |
+| last720d | 2024-11-12 | 82 | 660 | 25 | 273 | 59 | 1038 |
 
 ## Release assets
 
@@ -84,7 +84,7 @@ Total: **40,113** lines of code across **250** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **29** distros on [repology.org](https://repology.org/project/television). **15** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+Reported by **27** distros on [repology.org](https://repology.org/project/television). **13** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -101,4 +101,4 @@ Install metadata for television lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:01:44Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:02:40Z._
