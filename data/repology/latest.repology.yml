@@ -1,29 +1,4 @@
-- repo: nix_stable_25_11
-  srcname: television
-  visiblename: television
-  version: 0.13.10
-  origversion: null
-  status: outdated
-  summary: Blazingly fast general purpose fuzzy finder TUI
-  maintainers:
-    - louis-thevenet@github
-    - getchoo@tuta.io
-    - rosssmyth@github
-  licenses:
-    - MIT
-- repo: nix_unstable
-  srcname: television
-  visiblename: television
-  version: 0.15.9
-  origversion: null
-  status: newest
-  summary: Blazingly fast general purpose fuzzy finder TUI
-  maintainers:
-    - louis-thevenet@github
-    - getchoo@tuta.io
-  licenses:
-    - MIT
-- repo: parabola
+- repo: manjaro_stable
   subrepo: extra
   srcname: television
   binname: television
@@ -32,6 +7,29 @@
   origversion: 0.15.9-1
   status: newest
   summary: A general purpose fuzzy finder for your terminal
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: television
+  binname: television
+  visiblename: television
+  version: 0.15.9
+  origversion: 0.15.9-1
+  status: newest
+  summary: A general purpose fuzzy finder for your terminal
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: television
+  visiblename: television
+  version: 0.9.4
+  origversion: null
+  status: outdated
+  summary: Blazingly fast general purpose fuzzy finder TUI
+  maintainers:
+    - louis-thevenet@github
+    - getchoo@tuta.io
   licenses:
     - MIT
 - repo: alt_p11
@@ -110,6 +108,17 @@
   summary: Fuzzy finder (manual pages)
   licenses:
     - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: television
+  binname: television
+  visiblename: television
+  version: 0.15.9
+  origversion: 0.15.9-1
+  status: newest
+  summary: A general purpose fuzzy finder for your terminal
+  licenses:
+    - MIT
 - repo: freebsd
   srcname: textproc/television
   binname: television
@@ -143,19 +152,6 @@
     - ZLIB
   categories:
     - app-misc
-- repo: nix_stable_26_05
-  srcname: television
-  visiblename: television
-  version: 0.15.6
-  origversion: null
-  status: outdated
-  summary: Blazingly fast general purpose fuzzy finder TUI
-  maintainers:
-    - louis-thevenet@github
-    - getchoo@tuta.io
-    - rosssmyth@github
-  licenses:
-    - MIT
 - repo: gentoo_ovl_guru
   srcname: app-misc/television
   visiblename: app-misc/television
@@ -268,29 +264,6 @@
     - MIT
   categories:
     - sysutils
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: television
-  binname: television
-  visiblename: television
-  version: 0.15.9
-  origversion: 0.15.9-1
-  status: newest
-  summary: A general purpose fuzzy finder for your terminal
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: television
-  visiblename: television
-  version: 0.9.4
-  origversion: null
-  status: outdated
-  summary: Blazingly fast general purpose fuzzy finder TUI
-  maintainers:
-    - louis-thevenet@github
-    - getchoo@tuta.io
-  licenses:
-    - MIT
 - repo: nix_stable_25_05
   srcname: television
   visiblename: television
@@ -301,6 +274,55 @@
   maintainers:
     - louis-thevenet@github
     - getchoo@tuta.io
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: television
+  visiblename: television
+  version: 0.13.10
+  origversion: null
+  status: outdated
+  summary: Blazingly fast general purpose fuzzy finder TUI
+  maintainers:
+    - louis-thevenet@github
+    - getchoo@tuta.io
+    - rosssmyth@github
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: television
+  visiblename: television
+  version: 0.15.6
+  origversion: null
+  status: outdated
+  summary: Blazingly fast general purpose fuzzy finder TUI
+  maintainers:
+    - louis-thevenet@github
+    - getchoo@tuta.io
+    - rosssmyth@github
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: television
+  visiblename: television
+  version: 0.15.9
+  origversion: null
+  status: newest
+  summary: Blazingly fast general purpose fuzzy finder TUI
+  maintainers:
+    - louis-thevenet@github
+    - getchoo@tuta.io
+  licenses:
+    - MIT
+- repo: parabola
+  subrepo: extra
+  srcname: television
+  binname: television
+  visiblename: television
+  version: 0.15.9
+  origversion: 0.15.9-1
+  status: newest
+  summary: A general purpose fuzzy finder for your terminal
   licenses:
     - MIT
 - repo: pkgsrc_2026_2
