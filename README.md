@@ -38,22 +38,22 @@ Total: **39,901** lines of code across **250** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 6,426 · **Forks**: 197 · **Open issues**: 339 · **Contributors**: 101
+- **Stars**: 6,434 · **Forks**: 197 · **Open issues**: 340 · **Contributors**: 101
 
 ## Totals (cumulative)
 
-- **Releases**: 86 · **Merged PRs**: 673 · **Open PRs**: 27 · **Closed issues**: 280 · **Open issues**: 59 · **Commits**: 1146
+- **Releases**: 86 · **Merged PRs**: 673 · **Open PRs**: 28 · **Closed issues**: 280 · **Open issues**: 60 · **Commits**: 1146
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 3 | 5 | 0 | 2 | 17 |
-| last60d | 2026-09-18 | 0 | 15 | 12 | 4 | 4 | 37 |
-| 90d | 2026-08-19 | 0 | 24 | 14 | 8 | 4 | 83 |
-| last180d | 2026-05-21 | 2 | 45 | 15 | 17 | 9 | 145 |
-| 360d | 2025-11-22 | 18 | 204 | 25 | 72 | 46 | 392 |
-| last720d | 2024-11-27 | 75 | 614 | 27 | 261 | 59 | 997 |
+| 30d | 2026-10-20 | 0 | 3 | 5 | 0 | 3 | 17 |
+| last60d | 2026-09-20 | 0 | 14 | 13 | 4 | 5 | 37 |
+| 90d | 2026-08-21 | 0 | 24 | 15 | 8 | 5 | 83 |
+| last180d | 2026-05-23 | 2 | 45 | 16 | 17 | 10 | 145 |
+| 360d | 2025-11-24 | 17 | 201 | 26 | 71 | 46 | 392 |
+| last720d | 2024-11-29 | 75 | 613 | 28 | 261 | 60 | 991 |
 
 ## Release assets
 
@@ -82,6 +82,16 @@ Total: **39,901** lines of code across **250** files in the top 5 languages.
 | [tv-0.15.9-x86_64-unknown-linux-musl.sha256](https://github.com/alexpasmantier/television/releases/download/0.15.9/tv-0.15.9-x86_64-unknown-linux-musl.sha256) | 109 B | `native/linux/x64/musl` |
 | [tv-0.15.9-x86_64-unknown-linux-musl.tar.gz](https://github.com/alexpasmantier/television/releases/download/0.15.9/tv-0.15.9-x86_64-unknown-linux-musl.tar.gz) | 3.9 MiB | `native/linux/x64/musl` |
 
+## Distribution status
+
+Reported by **29** distros on [repology.org](https://repology.org/project/television). **15** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.15.9` | ✅ latest |
+| Homebrew | `0.15.9` | ✅ latest |
+| Nix unstable | `0.15.9` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for television lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `television` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -91,4 +101,4 @@ Install metadata for television lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:41:36Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:40:49Z._
