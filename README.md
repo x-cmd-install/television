@@ -48,12 +48,12 @@ Total: **39,901** lines of code across **250** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 3 | 5 | 0 | 3 | 16 |
-| last60d | 2026-09-25 | 0 | 10 | 13 | 3 | 5 | 28 |
-| 90d | 2026-08-26 | 0 | 24 | 15 | 8 | 6 | 81 |
-| last180d | 2026-05-28 | 2 | 44 | 17 | 16 | 10 | 145 |
-| 360d | 2025-11-29 | 16 | 189 | 27 | 71 | 47 | 376 |
-| last720d | 2024-12-04 | 75 | 609 | 29 | 261 | 61 | 989 |
+| 30d | 2026-10-26 | 0 | 3 | 5 | 0 | 3 | 16 |
+| last60d | 2026-09-26 | 0 | 10 | 13 | 3 | 5 | 28 |
+| 90d | 2026-08-27 | 0 | 24 | 15 | 8 | 6 | 81 |
+| last180d | 2026-05-29 | 2 | 44 | 17 | 16 | 10 | 145 |
+| 360d | 2025-11-30 | 16 | 189 | 27 | 71 | 47 | 376 |
+| last720d | 2024-12-05 | 74 | 604 | 29 | 260 | 61 | 986 |
 
 ## Release assets
 
@@ -82,16 +82,6 @@ Total: **39,901** lines of code across **250** files in the top 5 languages.
 | [tv-0.15.9-x86_64-unknown-linux-musl.sha256](https://github.com/alexpasmantier/television/releases/download/0.15.9/tv-0.15.9-x86_64-unknown-linux-musl.sha256) | 109 B | `native/linux/x64/musl` |
 | [tv-0.15.9-x86_64-unknown-linux-musl.tar.gz](https://github.com/alexpasmantier/television/releases/download/0.15.9/tv-0.15.9-x86_64-unknown-linux-musl.tar.gz) | 3.9 MiB | `native/linux/x64/musl` |
 
-## Distribution status
-
-Reported by **29** distros on [repology.org](https://repology.org/project/television). **15** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.15.9` | ✅ latest |
-| Homebrew | `0.15.9` | ✅ latest |
-| Nix unstable | `0.15.9` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for television lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `television` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -101,4 +91,4 @@ Install metadata for television lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:02:29Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:57:21Z._
