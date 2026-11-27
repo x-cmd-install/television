@@ -38,22 +38,22 @@ Total: **39,901** lines of code across **250** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 6,444 · **Forks**: 198 · **Open issues**: 341 · **Contributors**: 101
+- **Stars**: 6,447 · **Forks**: 197 · **Open issues**: 342 · **Contributors**: 101
 
 ## Totals (cumulative)
 
-- **Releases**: 86 · **Merged PRs**: 673 · **Open PRs**: 29 · **Closed issues**: 280 · **Open issues**: 61 · **Commits**: 1146
+- **Releases**: 86 · **Merged PRs**: 673 · **Open PRs**: 29 · **Closed issues**: 280 · **Open issues**: 62 · **Commits**: 1146
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 3 | 5 | 0 | 3 | 16 |
-| last60d | 2026-09-27 | 0 | 10 | 13 | 3 | 5 | 28 |
-| 90d | 2026-08-28 | 0 | 24 | 15 | 8 | 6 | 81 |
-| last180d | 2026-05-30 | 2 | 44 | 17 | 16 | 10 | 145 |
-| 360d | 2025-12-01 | 16 | 189 | 27 | 70 | 47 | 376 |
-| last720d | 2024-12-06 | 73 | 601 | 29 | 260 | 61 | 981 |
+| 30d | 2026-10-28 | 0 | 3 | 4 | 0 | 4 | 16 |
+| last60d | 2026-09-28 | 0 | 8 | 13 | 3 | 6 | 28 |
+| 90d | 2026-08-29 | 0 | 24 | 15 | 8 | 7 | 81 |
+| last180d | 2026-05-31 | 2 | 44 | 17 | 16 | 11 | 145 |
+| 360d | 2025-12-02 | 16 | 187 | 27 | 70 | 48 | 376 |
+| last720d | 2024-12-07 | 72 | 601 | 29 | 260 | 62 | 978 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for television lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T10:03:56Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:22:01Z._
